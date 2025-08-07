@@ -18,6 +18,6 @@
 
 **[N-Body-Particle-Simulation](https://github.com/jacobpoore/N-Body-Particle-Simulation)**  
 A real-time simulation of gravitational interactions between particles in 2D and 3D space, implemented in Python using Matplotlib.
-
 `Python`, `Tkinter`, `Simulation`,
+
 ---
