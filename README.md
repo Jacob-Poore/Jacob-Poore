@@ -3,15 +3,15 @@
 [![Website](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&color=2bbc8a)](https://jacobpoore.wescreates.wesleyan.edu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jacobtpoore)
 [![GitHub Followers](https://img.shields.io/github/followers/jacobpoore?label=Follow&style=social)](https://github.com/jacobpoore)
-[![Stars](https://img.shields.io/github/stars/jacobpoore?style=social)](https://github.com/jacobpoore)
+[![Stars](https://img.shields.io/github/stars/jacobpoore?style=social)](https://github.com/jacobpoore/)
 
 ---
 
 ## 🔗 Quick Links
 
--  **Portfolio:** [your-website.com](https://your-website.com)
--  **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
--  **Featured Repo:** [github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+-  **Portfolio:** [your-website.com](https://jacobpoore.wescreates.wesleyan.edu/)
+-  **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/jacobtpoore)
+-  **Featured Repo:** [github.com/your-username/your-repo-name](https://github.com/jacobpoore/N-Body-Particle-Simulation)
 
 ---
 
