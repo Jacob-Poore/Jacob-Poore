@@ -7,31 +7,17 @@
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 -  **Portfolio:** [jacobpoore.wescreates.wesleyan.edu](https://jacobpoore.wescreates.wesleyan.edu/)
 -  **LinkedIn:** [linkedin.com/in/jacobtpoore](https://linkedin.com/in/jacobtpoore)
 -  **Featured Repo:** [github.com/jacobpoore/N-Body-Particle-Simulation](https://github.com/jacobpoore/N-Body-Particle-Simulation)
 ---
 
-## ✨ Featured Project
+## Featured Project
 
 **[N-Body-Particle-Simulation](https://github.com/jacobpoore/N-Body-Particle-Simulation)**  
 A real-time simulation of gravitational interactions between particles in 2D and 3D space, implemented in Python using Matplotlib.
 
 `Python`, `Tkinter`, `Simulation`,
-
 ---
-
-<!-- Optional ASCII or Banner -->
-        ___           ___           ___       ___     
-       /\  \         /\__\         /\  \     /\  \    
-      /::\  \       /:/  /        /::\  \    \:\  \   
-     /:/\:\  \     /:/__/        /:/\:\  \    \:\  \  
-    /::\~\:\  \   /::\__\____   /:/  \:\  \   /::\  \ 
-   /:/\:\ \:\__\ /:/\:::::\__\ /:/__/ \:\__\ /:/\:\__\
-   \/__\:\/:/  / \/_|:|~~|~    \:\  \ /:/  / \:\/:/  /
-        \::/  /     |:|  |      \:\  /:/  /   \::/  / 
-        /:/  /      |:|  |       \:\/:/  /     \/__/  
-       /:/  /       |:|  |        \::/  /             
-       \/__/         \|__|         \/__/              
