@@ -2,8 +2,8 @@
 
 [![Website](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&color=2bbc8a)](https://jacobpoore.wescreates.wesleyan.edu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jacobtpoore)
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/jacobpoore)
-[![Stars](https://img.shields.io/github/stars/your-username?style=social)](https://github.com/jacobpoore)
+[![GitHub Followers](https://img.shields.io/github/followers/jacobpoore?label=Follow&style=social)](https://github.com/jacobpoore)
+[![Stars](https://img.shields.io/github/stars/jacobpoore?style=social)](https://github.com/jacobpoore)
 
 ---
 
