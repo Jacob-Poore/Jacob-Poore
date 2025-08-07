@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Jacob 👋
 
-<!--
-**jacobpoore/jacobpoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&color=2bbc8a)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![Stars](https://img.shields.io/github/stars/your-username?style=social)](https://github.com/your-username)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Quick Links
+
+- 🌐 **Portfolio:** [your-website.com](https://your-website.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- 📂 **Featured Repo:** [github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+
+---
+
+## ✨ Featured Project
+
+**[your-repo-name](https://github.com/your-username/your-repo-name)**  
+A brief one-liner or summary of what your project does and why it matters.  
+`Python`, `Tkinter`, `Simulation`, or whatever tags are relevant.
+
+---
+
+<!-- Optional ASCII or Banner -->
+        ___           ___           ___       ___     
+       /\  \         /\__\         /\  \     /\  \    
+      /::\  \       /:/  /        /::\  \    \:\  \   
+     /:/\:\  \     /:/__/        /:/\:\  \    \:\  \  
+    /::\~\:\  \   /::\__\____   /:/  \:\  \   /::\  \ 
+   /:/\:\ \:\__\ /:/\:::::\__\ /:/__/ \:\__\ /:/\:\__\
+   \/__\:\/:/  / \/_|:|~~|~    \:\  \ /:/  / \:\/:/  /
+        \::/  /     |:|  |      \:\  /:/  /   \::/  / 
+        /:/  /      |:|  |       \:\/:/  /     \/__/  
+       /:/  /       |:|  |        \::/  /             
+       \/__/         \|__|         \/__/              
