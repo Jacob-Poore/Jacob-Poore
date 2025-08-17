@@ -19,7 +19,7 @@
 
 A real-time simulation of gravitational interactions between particles in 2D and 3D space, implemented in Python using Matplotlib.
 
-**Tech:** `Python` · `Matplotlib` · `Tkinter`  
+`Python` · `Matplotlib` · `Tkinter`  
 **Topics:** Computational physics, simulation, real-time visualization
 
 > Explore orbital mechanics, softening, and numerical integration through a hands-on, interactive simulation.
