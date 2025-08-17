@@ -1,6 +1,6 @@
 # Hi, I'm Jacob
 
-[![Website](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&color=2bbc8a)](https://jacobpoore.wescreates.wesleyan.edu/)
+[![Website](https://img.shields.io/badge/Website-Visit-informational?style=flat&logo=google-chrome&color=2bbc8a)](https://jpoore.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jacobtpoore)
 [![GitHub Followers](https://img.shields.io/github/followers/Jacob-Poore?label=Follow&style=social)](https://github.com/Jacob-Poore)
 [![GitHub Stars](https://img.shields.io/github/stars/Jacob-Poore?style=social)](https://github.com/Jacob-Poore)
@@ -9,7 +9,7 @@
 
 ## Quick Links
 
-- **Portfolio:** [jacobpoore.wescreates.wesleyan.edu](https://jacobpoore.wescreates.wesleyan.edu/)
+- **Portfolio:** [jpoore.dev](https://jpoore.dev/)
 - **LinkedIn:** [linkedin.com/in/jacobtpoore](https://linkedin.com/in/jacobtpoore)
 - **Featured Project:** [N-Body Particle Simulation](https://github.com/Jacob-Poore/N-Body-Particle-Simulation)
 
